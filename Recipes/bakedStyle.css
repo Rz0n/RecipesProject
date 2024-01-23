@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 238, 143);
+    text-align: center;
+}
+
+#head {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    list-style-type: none;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
